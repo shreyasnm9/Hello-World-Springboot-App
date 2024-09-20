@@ -48,4 +48,9 @@
 		</dependency> -->
 
 	</dependencies>
+	<properties>
+    		<!-- SonarQube Server URL -->
+    		<sonar.host.url>http://localhost:9090</sonar.host.url>
+	</properties>
+
 </project>
